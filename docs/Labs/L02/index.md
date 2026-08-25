@@ -17,3 +17,6 @@ _Which geometry did you select, and why? This is your first open design choice i
 
 ## Communicate
 
+1. Topology is a good way to minimize waste in the printing process, and maximize certain aspects of the print based on end-user needs.
+
+2. If the model is set at a 45 degree or more angle, a support is needed in the print to ensure no deformation occurs mid print.
