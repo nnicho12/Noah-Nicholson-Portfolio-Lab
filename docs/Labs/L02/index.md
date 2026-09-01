@@ -50,10 +50,7 @@ We used Prusa Core 14 as our printer, during our print of our 3 pieces, we ran i
 
 <img width="253" height="220" alt="Screenshot 2026-08-31 234839" src="https://github.com/user-attachments/assets/6f09f589-d6c2-448d-9903-deec87cbb0d6" />
 <img width="253" height="207" alt="Screenshot 2026-08-31 234809" src="https://github.com/user-attachments/assets/63669242-0e03-475c-a72d-4bec003c6de9" />
-<video width="640" height="480" controls>
-  <source src="IMG_4241.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+
 
 
 
