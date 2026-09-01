@@ -54,6 +54,9 @@ Mohammed Hasan, others, and I used Prusa Core 14 as our printer, during our prin
 
 ## Lessons Learned
 
+<img width="400" height="500" alt="Screenshot 2026-09-01 135101" src="https://github.com/user-attachments/assets/b7e9e8f4-6566-41cd-827e-2c95745c0427" />
+<img width="400" height="500" alt="Screenshot 2026-09-01 135113" src="https://github.com/user-attachments/assets/8b3250bd-b191-4953-ae8e-c505b28e2057" />
+
 I learned to look at the different files to download, some might be different sizes of the print that I could make. I learned to make sure I understand my print before I download it, do I need constraints? can I scale this down and still have it serve it's intended function? Understand what changes need to be made before uploading the g-code. Make sure the printing surface is clean so the print will have a consistent surface to print on and prevent unnecessary blemishes. It took about an hour from the download to the finished print, this was due to struggles that we had due to the printer not working, this required help from professor Raquet to fix and "home" the printer in order for us to be able to complete our print. 
 
 Resources: https://www.printables.com/model/1804960-uno-reverse-card-credit-card-case/files#preview.o8HyQ , https://www.printables.com/model/1823402-coilclip-holder-for-coiled-usb-c-cables/files
