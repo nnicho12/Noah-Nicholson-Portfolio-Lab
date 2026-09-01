@@ -46,12 +46,17 @@ The build was scaled down as shown, due to this scaling, the build wasn't create
 
 ## Print
 
-We used Prusa Core 14 as our printer, during our print of our 3 pieces, we ran into issues with our original printer due to an error with the platform. The platform that the prints would be made on was slightly off balance so the printer could not start the print until the based was reset.
+Mohammed Hasan, others, and I used Prusa Core 14 as our printer, during our print of our 3 pieces, we ran into issues with our original printer due to an error with the platform. The platform that the prints would be made on was slightly off balance so the printer could not start the print until the based was reset.
 
 <img width="253" height="220" alt="Screenshot 2026-08-31 234839" src="https://github.com/user-attachments/assets/6f09f589-d6c2-448d-9903-deec87cbb0d6" />
 <img width="253" height="207" alt="Screenshot 2026-08-31 234809" src="https://github.com/user-attachments/assets/63669242-0e03-475c-a72d-4bec003c6de9" />
 [print video](https://github.com/nnicho12/Noah-Nicholson-Portfolio-Lab/raw/main/docs/Labs/L02/IMG_4241.mp4)
 
+## Lessons Learned
+
+I learned to look at the different files to download, some might be different sizes of the print that I could make. I learned to make sure I understand my print before I download it, do I need constraints? can I scale this down and still have it serve it's intended function? Understand what changes need to be made before uploading the g-code. Make sure the printing surface is clean so the print will have a consistent surface to print on and prevent unnecessary blemishes. It took about an hour from the download to the finished print, this was due to struggles that we had due to the printer not working, this required help from professor Raquet to fix and "home" the printer in order for us to be able to complete our print. 
+
+Resources: https://www.printables.com/model/1804960-uno-reverse-card-credit-card-case/files#preview.o8HyQ , https://www.printables.com/model/1823402-coilclip-holder-for-coiled-usb-c-cables/files
 
 
 
