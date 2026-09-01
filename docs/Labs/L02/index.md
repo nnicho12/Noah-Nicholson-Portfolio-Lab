@@ -32,5 +32,24 @@ I chose a c-cable clip to hold a c-cable wrapped and the heads protected. I chos
 
 <img width="522" height="365" alt="Screenshot 2026-08-31 203916" src="https://github.com/user-attachments/assets/1cd14d39-1739-42f4-863e-abd885108e4c" />
 
+This is a card holder Uno card, I chose to move away from this option because it was a two piece print.
+
+## Preprocessor
+
+<img width="694" height="526" alt="Screenshot 2026-08-27 135243" src="https://github.com/user-attachments/assets/2c94f252-157e-4b61-ab42-07f02be2e89e" />
+
+I made the orientation as shown in this image because this is how the build is the most flat and based on the geometry, it made it so it would be most like the intended model while still being within the constraints of the assignment
+
+<img width="600" height="300" alt="Screenshot 2026-08-27 135249" src="https://github.com/user-attachments/assets/944fdeca-c7ca-438e-a045-3279038e5d1a" />
+
+The build was scaled down as shown, due to this scaling, the build wasn't created as a functional piece because the usb-c port would no longer fit within the scaled-down piece. After printing, it would have been beneficial to use supports due to the spacing created for the port. This is why the build may not come out as intended.
+
+## Print
+
+
+
+
+
+
 
 
