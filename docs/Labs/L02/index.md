@@ -1,4 +1,4 @@
-# A2 – Truss Stress Analysis
+# L02 - Design and Slicing
 
 ## Objective
 
@@ -20,3 +20,12 @@ _Which geometry did you select, and why? This is your first open design choice i
 1. Topology is a good way to minimize waste in the printing process, and maximize certain aspects of the print based on end-user needs.
 
 2. If the model is set at a 45 degree or more angle, a support is needed in the print to ensure no deformation occurs mid print.
+
+# L02 - Print Something Small
+
+## Download
+
+Created by Rocksession in .stl, on printables.com https://www.printables.com/model/1823402-coilclip-holder-for-coiled-usb-c-cables/files.
+! (base-Image-C-Cable-Clip)[<img width="2512" height="1298" alt="Screenshot 2026-08-31 202929" src="https://github.com/user-attachments/assets/82e7278b-7fa2-4d97-ac44-d3dc83d2380a" />]
+
+
