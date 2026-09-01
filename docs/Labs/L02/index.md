@@ -26,6 +26,6 @@ _Which geometry did you select, and why? This is your first open design choice i
 ## Download
 
 Created by Rocksession in .stl, on printables.com https://www.printables.com/model/1823402-coilclip-holder-for-coiled-usb-c-cables/files.
-! <img width="1250" height="650" alt="Screenshot 2026-08-31 202929" src="https://github.com/user-attachments/assets/82e7278b-7fa2-4d97-ac44-d3dc83d2380a" />
+! <img width="625" height="325" alt="Screenshot 2026-08-31 202929" src="https://github.com/user-attachments/assets/82e7278b-7fa2-4d97-ac44-d3dc83d2380a" />
 
 
