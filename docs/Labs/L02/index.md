@@ -30,4 +30,7 @@ Created by Rocksession in .stl, on printables.com https://www.printables.com/mod
 
 I chose a c-cable clip to hold a c-cable wrapped and the heads protected. I chose this because I use c-cables and I carry them in my backpack and I'd like to have something to keep them organized.
 
+! <img width="522" height="365" alt="Screenshot 2026-08-31 203916" src="https://github.com/user-attachments/assets/1cd14d39-1739-42f4-863e-abd885108e4c" />
+
+
 
