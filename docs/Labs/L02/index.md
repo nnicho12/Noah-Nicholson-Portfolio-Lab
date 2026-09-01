@@ -52,7 +52,7 @@ We used Prusa Core 14 as our printer, during our print of our 3 pieces, we ran i
 <img width="253" height="207" alt="Screenshot 2026-08-31 234809" src="https://github.com/user-attachments/assets/63669242-0e03-475c-a72d-4bec003c6de9" />
 
 <video controls playsinline style="max-width:100%; height:auto;">
-  <source src="./IMG_4241.mp4" type="video/mp4">
+  <source src="docs/Labs/L02/IMG_4241.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
