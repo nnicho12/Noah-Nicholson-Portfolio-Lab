@@ -48,8 +48,8 @@ The build was scaled down as shown, due to this scaling, the build wasn't create
 
 We used Prusa Core 14 as our printer, during our print of our 3 pieces, we ran into issues with our original printer due to an error with the platform. The platform that the prints would be made on was slightly off balance so the printer could not start the print until the based was reset.
 
-<img width="507" height="440" alt="Screenshot 2026-08-31 234839" src="https://github.com/user-attachments/assets/6f09f589-d6c2-448d-9903-deec87cbb0d6" />
-<img width="507" height="413" alt="Screenshot 2026-08-31 234809" src="https://github.com/user-attachments/assets/63669242-0e03-475c-a72d-4bec003c6de9" />
+<img width="253" height="220" alt="Screenshot 2026-08-31 234839" src="https://github.com/user-attachments/assets/6f09f589-d6c2-448d-9903-deec87cbb0d6" />
+<img width="253" height="207" alt="Screenshot 2026-08-31 234809" src="https://github.com/user-attachments/assets/63669242-0e03-475c-a72d-4bec003c6de9" />
 
 
 
