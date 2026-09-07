@@ -1,6 +1,7 @@
-# A3 – [Design Something Small]
+# A3 – Design Something Small
 
 ## Design
+
 
 
 ## Research
