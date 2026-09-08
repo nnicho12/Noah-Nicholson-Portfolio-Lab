@@ -21,6 +21,10 @@ This is an infill that traces the perimeter of the print and gets smaller as it 
 
 <img width="500" height="500" alt="Hilbert" src="https://github.com/user-attachments/assets/b3990bdb-452c-4223-967a-c094c3b91e15" />
 
+The hilbert curve is pattern that is rectangular but it has large spaces that make it optimal for filling it with epoxy or resin.
+
+# Archimedean Chords
+
 
 ## Preprocessor and Printing
 
