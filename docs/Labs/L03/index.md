@@ -35,7 +35,7 @@ Infill percentage will mostly affect how the compression will effect a model. Th
 ## Preprocessor and Printing
 
 <img width="317" height="308" alt="Lab 3 Print Settings" src="https://github.com/user-attachments/assets/1e37a61a-eb3b-4890-9769-a3e9094e41ee" />
-<img width="818" height="578" alt="Lab 3 Slice" src="https://github.com/user-attachments/assets/d7d27106-068b-4130-a2ab-d263167f4ad1" />
+<img width="400" height="300" alt="Lab 3 Slice" src="https://github.com/user-attachments/assets/d7d27106-068b-4130-a2ab-d263167f4ad1" />
 
 
 ## Print
