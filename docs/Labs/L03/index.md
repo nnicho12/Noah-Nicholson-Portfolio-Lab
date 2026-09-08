@@ -43,10 +43,7 @@ The build was set in a way that would allow for it to be printed without any sup
 <div style="display:flex; gap:1rem; align-items:flex-start; flex-wrap:wrap;">
   <img src="./BSMprintpic.png" alt="DSMcad print pic" style="max-width:48%; height:48%; display:block;">
 </div>
-<video width="400" controls poster="./BSMprintpic.png">
-  <source src="./BSMvid.mp4" type="video/mp4">
-  <a href="./BSMvid.mp4">here</a>.
-</video>
+[print video](https://github.com/nnicho12/Noah-Nicholson-Portfolio-Lab/raw/main/docs/Labs/L03/BSMvid.mp4)
 
 ## Lessons Learned
 
