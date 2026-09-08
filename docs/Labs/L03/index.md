@@ -28,6 +28,10 @@ The hilbert curve is pattern that is rectangular but it has large spaces that ma
 <img width="500" height="500" alt="Archimedean Chords" src="https://github.com/user-attachments/assets/8948bbcb-5a7d-4f3d-93c7-5673074b1e2b" />
 
 This pattern has a similar style to the Concentric, this uses a circular shape as oppose to a perimeter tracing shape. This would allow for more flexibility like the concentric but also allows for optimized filling for materials such as resin and epoxy.
+
+# How does infill percentage affect mechanical properties, and how do different infill patterns affect mechanical properties?
+
+Infill percentage will mostly affect how the compression will effect a model. This is because higher infill percentage means a high level of support around the neutral axis of the model. How the infill percentage affects the strength of the model is not linear. Different infill patterns will affect mechanical properties of a model such as flexibility or the model's ability to take filler material. This is because based on the pattern, some can assist in tensile strength in one direction, but not the other. Think of a standard line pattern. parallel to the length of a rectangle. If you apply force on the width of the rectangle, there would be a much higher resistance to deformation than if force was applied on the length of the rectangle.
 ## Preprocessor and Printing
 
 
