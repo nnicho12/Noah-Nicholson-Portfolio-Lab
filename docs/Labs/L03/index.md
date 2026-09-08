@@ -47,3 +47,8 @@ The build was set in a way that would allow for it to be printed without any sup
 
 ## Lessons Learned
 
+This project took much less time than LO2 mostly due to a stronger understanding of github and being able to work more efficiently. During this project I needed to reduce the walls to allow for my infill pattern to be made properly, In hindsight I could have made my model with a thicker perimeter to allow for the wall strength to be maintained while still allowing for the infill to work properly. If I went through with the print the infill may have come out wrong or poorly and as such, the model might fail under stress that was calculated to be bearable. In real products, mistakes like these are a basis for safety factors, so if a print comes out slightly wrong, it could still hold under the stress it is designed to be placed under. Also in real products, the infill and wall thickness can be manipulated in correlation to the purpose of the product, such as if the product needs to be able to flex a lot or if it needs to be strong under compression or tension. 
+
+## Resources
+
+[prusa3d](https://help.prusa3d.com/article/infill-patterns_177130)
