@@ -11,6 +11,14 @@ I designed something for me to fidget with during class time. As a student with 
 
 ## Research
 
+# Concentric
+
+<img width="500" height="500" alt="Concentric" src="https://github.com/user-attachments/assets/103d7ea4-a52a-4192-937d-8d469b374550" />
+
+This is an infill that traces the perimeter of the print and gets smaller as it reaches the center. This is best for flexible or transparent prints. (ex: miniature tires for toy model cars)
+
+# Hilbert Curve
+
 
 ## Preprocessor and Printing
 
