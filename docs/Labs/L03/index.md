@@ -25,7 +25,9 @@ The hilbert curve is pattern that is rectangular but it has large spaces that ma
 
 # Archimedean Chords
 
+<img width="500" height="500" alt="Archimedean Chords" src="https://github.com/user-attachments/assets/8948bbcb-5a7d-4f3d-93c7-5673074b1e2b" />
 
+This pattern has a similar style to the Concentric, this uses a circular shape as oppose to a perimeter tracing shape. This would allow for more flexibility like the concentric but also allows for optimized filling for materials such as resin and epoxy.
 ## Preprocessor and Printing
 
 
