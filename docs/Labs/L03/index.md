@@ -34,6 +34,9 @@ This pattern has a similar style to the Concentric, this uses a circular shape a
 Infill percentage will mostly affect how the compression will effect a model. This is because higher infill percentage means a high level of support around the neutral axis of the model. How the infill percentage affects the strength of the model is not linear. Different infill patterns will affect mechanical properties of a model such as flexibility or the model's ability to take filler material. This is because based on the pattern, some can assist in tensile strength in one direction, but not the other. Think of a standard line pattern. parallel to the length of a rectangle. If you apply force on the width of the rectangle, there would be a much higher resistance to deformation than if force was applied on the length of the rectangle.
 ## Preprocessor and Printing
 
+<img width="317" height="308" alt="Lab 3 Print Settings" src="https://github.com/user-attachments/assets/1e37a61a-eb3b-4890-9769-a3e9094e41ee" />
+<img width="818" height="578" alt="Lab 3 Slice" src="https://github.com/user-attachments/assets/d7d27106-068b-4130-a2ab-d263167f4ad1" />
+
 
 ## Print
 
