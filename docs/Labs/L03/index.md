@@ -42,9 +42,11 @@ The build was set in a way that would allow for it to be printed without any sup
 ## Print
 <div style="display:flex; gap:1rem; align-items:flex-start; flex-wrap:wrap;">
   <img src="./BSMprintpic.png" alt="DSMcad print pic" style="max-width:48%; height:48%; display:block;">
-  <img src="BSMvid.mp4" alt="DSM vid" style="max-width:48%; height:48%; display:block;">
 </div>
-
+<video width="400" controls poster="./BSMprintpic.png">
+  <source src="./BSMvid.mp4" type="video/mp4">
+  Your browser does not support the video tag. Download the video <a href="./BSMvid.mp4">here</a>.
+</video>
 
 ## Lessons Learned
 
