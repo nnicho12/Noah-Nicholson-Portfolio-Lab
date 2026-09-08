@@ -40,7 +40,10 @@ Infill percentage will mostly affect how the compression will effect a model. Th
 The build was set in a way that would allow for it to be printed without any supports to reduce build time. I did not need to scale my build because I designed the model within the set parameters of the assignment. I used a 15% infill with a diagonal pattern for the minimal need for tensile strength from the low load of force it would be placed under during usage. The wall thickness was reduced to allow for the infill to be effectively used due to the narrow natural of the model. I was not worried about having to reduce the wall thickness however because I knew the model was not going to be under substantial stress and therefore, wouldn't be concerned about deformation. So this would allow for a better produciton of the infill, as well as save material and print time.
 
 ## Print
-<img width="400" height="300" alt="Lab 3 Slice" src="docs/Labs/L03/BSMprintpic.png" />
+<div style="display:flex; gap:1rem; align-items:flex-start; flex-wrap:wrap;">
+  <img src="./BSMprintpic.png" alt="DSMcad print pic" style="max-width:48%; height:48%; display:block;">
+  <img src="BSMvid.mp4" alt="DSM vid" style="max-width:48%; height:48%; display:block;">
+</div>
 
 
 ## Lessons Learned
