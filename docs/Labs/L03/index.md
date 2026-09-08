@@ -9,8 +9,6 @@ I designed something for me to fidget with during class time. As a student with 
   <img src="./DSMcadnormal.png" alt="DSMcad normal view" style="max-width:48%; height:48%; display:block;">
 </div>
 
-
-
 ## Research
 
 
