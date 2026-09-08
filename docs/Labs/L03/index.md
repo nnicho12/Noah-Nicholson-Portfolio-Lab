@@ -45,7 +45,7 @@ The build was set in a way that would allow for it to be printed without any sup
 </div>
 <video width="400" controls poster="./BSMprintpic.png">
   <source src="./BSMvid.mp4" type="video/mp4">
-  Your browser does not support the video tag. Download the video <a href="./BSMvid.mp4">here</a>.
+  <a href="./BSMvid.mp4">here</a>.
 </video>
 
 ## Lessons Learned
