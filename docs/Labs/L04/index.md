@@ -19,12 +19,16 @@ Then I needed a way to know at what angle the print fails. To accomplish this I 
 <img width="500" height="470" alt="L4slice1" src="https://github.com/user-attachments/assets/37e7b201-7b64-4aa0-ab09-e628f69305c3" />
 <img width="500" height="470" alt="L4slice2" src="https://github.com/user-attachments/assets/7ed04244-8df7-4613-b46e-deb941efebe1" />
 
-I used a 40% infill and I scaled the thickness of the model by 200%, this was because the model appeared too small and narrow to have efficient infill. Building on that reason was why I chose to use 40% infill as well.
-
+I used a 40% infill and I scaled the thickness of the model by 200%
 
 ## Preprocessor
+I chose to scale the model thickness 200% because the model appeared too small and narrow to have efficient infill and to add extra stability during the print process. Building on that reason was why I chose to use 40% infill as well. I was initially planning on creating a banking like that in the first cad sketch, however I knew the way the printer built the structure, it wouldn't be tested for overhang the way that I intended. This is why I chose to make it an arch instead with a support on the bottom to keep it upright during the print. The idea of the test is to see what angle the print truly fails without supports, aside from the designed leg at the bottom to ensure the model kept balance I did not use any supports for this print. During this process I struggled to get the width of the arch correct due to the banking, because of this it was a challenge to create the angle measurement markers in the correct places. The true angle that each marker represents is slightly higher than where the markers indicate.
 
 
+## Print Artifact
 
-## Communicate
+<img width="500" height="600" alt="L4sideview2" src="https://github.com/user-attachments/assets/4b537aed-0ebe-4848-bebf-dd3ee9d621e3" />
+<img width="500" height="600" alt="L4sideview1" src="https://github.com/user-attachments/assets/d1891366-ea56-4bf5-ac3a-a4c28b3c883e" />
+
+This model tested the max angle the Prusa One can print before it fails without supports. Here we can see that right after the 75 degree marker, the angle starts to dip and the print starts to deform because this is when the angle gets too steep for the print without supports.
 
