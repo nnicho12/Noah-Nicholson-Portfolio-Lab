@@ -32,3 +32,5 @@ I chose to scale the model thickness 200% because the model appeared too small a
 
 This model tested the max angle the Prusa One can print before it fails without supports. Here we can see that right after the 75 degree marker, the angle starts to dip and the print starts to deform because this is when the angle gets too steep for the print without supports.
 
+[print video](https://github.com/nnicho12/Noah-Nicholson-Portfolio-Lab/raw/main/docs/Labs/L03/BSMvid.mp4)
+
