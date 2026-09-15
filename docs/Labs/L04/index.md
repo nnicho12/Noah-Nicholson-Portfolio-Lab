@@ -34,3 +34,5 @@ This model tested the max angle the Prusa One can print before it fails without 
 
 [print video](https://github.com/nnicho12/Noah-Nicholson-Portfolio-Lab/raw/main/docs/Labs/L04/L4printvideo.mp4)
 
+This video shows when the print started buckling and the angle started to dip because it was too steep.
+
