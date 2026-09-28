@@ -16,7 +16,8 @@ This is the bottom clip that will be used to seat my top clip into. I rounded th
 
 This is the top clip. It has rounded edges and matching geometry to the bottom clip to allow for a clean and tight fit once snapped into place.
 
-<img width="500" height="500" alt="Screenshot 2026-09-17 134023" src="https://github.com/user-attachments/assets/4814ff5c-0575-4bf8-a027-a31d2afe28f3" />
+<img width="500" height="300" alt="Screenshot 2026-09-22 115413" src="https://github.com/user-attachments/assets/91431b19-3cda-49e9-be93-9cb356e167ed" />
+
 
 I added flanges that extend off teeth of my top clip so that once the clip is in, the user has something to grip onto in order to apply the force necessary to unclip the top from bottom. I also added spacing to allow for the user to have extra space to get a better grip on the flanges and therefore, having to apply less force to unclip the model.
 
