@@ -7,7 +7,7 @@ I decided to try to make my own clip based on a standard clip you would see on a
 
 <img width="500" height="500" alt="Screenshot 2026-09-17 125544" src="https://github.com/user-attachments/assets/1415b7c3-6d5d-4cda-9110-8df08d7f29b4" />
 
-This is the bottom clip that will be used to seat my top clip into. I rounded the edges of it to make it easier to slide in and out of, and I made sure that there was ample space in the middle of the clip to allow for the proper amount of displacement for the top clip in order for it to be released.
+This is the bottom clip that will be used to seat my top clip into. I rounded the edges of it to make it easier to slide in and out of, and I made sure that there was ample space in the middle of the clip to allow for the proper amount of displacement for the top clip in order for it to be released. I did have to change around the parameters from my origin sketch to ensure that the model would be able to have enough room to unclip.
 
 <img width="500" height="500" alt="Screenshot 2026-09-17 131827" src="https://github.com/user-attachments/assets/7b3d66b1-1e81-4675-8d04-7d275a141b60" />
 
