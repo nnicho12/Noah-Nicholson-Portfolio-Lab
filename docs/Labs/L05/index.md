@@ -25,11 +25,19 @@ I added flanges that extend off teeth of my top clip so that once the clip is in
 
 I made an assembly of the clip to ensure that the clip would fit and align correctly with one another
 
+## 3D Print and Test
 
+<img width="500" height="500" alt="Screenshot 2026-09-28 214213" src="https://github.com/user-attachments/assets/651bfd51-c26b-4dd7-875f-282e0d27cf44" />
 
-## Analyze
+This is the finished product once it is fully snapped in.
 
+<img width="500" height="500" alt="Screenshot 2026-09-28 214234" src="https://github.com/user-attachments/assets/56c3fbd9-aff8-434f-bc39-c8b68a215bc0" />
 
+As you can see, on one side, the print failed and the material started to Frey. The most likely possibility could be my infill type, percentage, and or wall thickness that contributed to this happening. This is my first time using the concentric infill pattern so this could be a common issue I am encountering.
+
+<img width="500" height="500" alt="Screenshot 2026-09-28 214222" src="https://github.com/user-attachments/assets/f62b6381-cb80-4592-b34f-0a9ad2f60f62" />
+
+This is the model being shown to be able to flex to the needed displacement needed in order to remove/insert the clip into place. So while the print did not come out as planned, the model still functions as intended.
 ## Decide
 
 
