@@ -1,7 +1,8 @@
 # L05 – Design Snap Fit
 
 ## Modeling
-(picture of Paper model)
+<img width="500" height="400" alt="Screenshot 2026-09-28 220953" src="https://github.com/user-attachments/assets/a2326314-d4b0-406b-ac3d-5aa0043d4558" />
+
 
 I decided to try to make my own clip based on a standard clip you would see on a children's bike helmet. By pushing into a fitted area using geometry to hold the top clip in place and then having an outside flange to grab onto and squeeze to contract and release the top clip. 
 
@@ -29,7 +30,7 @@ I made an assembly of the clip to ensure that the clip would fit and align corre
 
 <img width="750" height="500" alt="Screenshot 2026-09-28 133715" src="https://github.com/user-attachments/assets/767c913b-f502-4a8a-a458-ddf994cb15d8" />
 
-For this print, I used a concentric infill pattern at 30 percent. I chose concentric because during my research for lab 3 I found it to be the best infill pattern for flexible prints of which this one would need to be. I chose 30 percent because I wanted to have a little more of the infill on the arms of the top clip so that it would have a little more strength and not fracture during usage.
+For this print, I used a concentric infill pattern at 30 percent. I chose concentric because during my research for lab 3 I found it to be the best infill pattern for flexible prints of which this one would need to be. I chose 30 percent because I wanted to have a little more of the infill on the arms of the top clip so that it would have a little more strength and not fracture during usage. I used supports because the flanges are set in a manner that needs 
 <img width="500" height="500" alt="Screenshot 2026-09-28 214213" src="https://github.com/user-attachments/assets/651bfd51-c26b-4dd7-875f-282e0d27cf44" />
 
 This is the finished product once it is fully snapped in.
@@ -41,8 +42,5 @@ As you can see, on one side, the print failed and the material started to Frey. 
 <img width="500" height="500" alt="Screenshot 2026-09-28 214222" src="https://github.com/user-attachments/assets/f62b6381-cb80-4592-b34f-0a9ad2f60f62" />
 
 This is the model being shown to be able to flex to the needed displacement needed in order to remove/insert the clip into place. So while the print did not come out as planned, the model still functions as intended.
-## Decide
 
-
-## Communicate
 
