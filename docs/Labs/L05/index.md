@@ -29,6 +29,7 @@ I made an assembly of the clip to ensure that the clip would fit and align corre
 
 <img width="750" height="500" alt="Screenshot 2026-09-28 133715" src="https://github.com/user-attachments/assets/767c913b-f502-4a8a-a458-ddf994cb15d8" />
 
+For this print, I used a concentric infill pattern at 30 percent. I chose concentric because during my research for lab 3 I found it to be the best infill pattern for flexible prints of which this one would need to be. I chose 30 percent because I wanted to have a little more of the infill on the arms of the top clip so that it would have a little more strength and not fracture during usage.
 <img width="500" height="500" alt="Screenshot 2026-09-28 214213" src="https://github.com/user-attachments/assets/651bfd51-c26b-4dd7-875f-282e0d27cf44" />
 
 This is the finished product once it is fully snapped in.
