@@ -18,15 +18,13 @@ https://www.youtube.com/watch?v=X800mynKw4M&t=31s
 
 
 ## Design
-<img width="1100" height="500" alt="Screenshot 2026-10-06 120103" src="https://github.com/user-attachments/assets/cf5b125d-ea80-46b0-bd53-9f85a2a55fb9" />
-
-The arm's dimensions were changed to make them fit more symmetrically and have a more balanced weight. it was originally two inches on both sides and one inch in the middle but I changed it to 2 inches on all three parts of the model.
-
 <img width="598" height="282" alt="Screenshot 2026-10-16 140241" src="https://github.com/user-attachments/assets/75eb271e-626a-4fc5-a002-2e3ad65d2641" />
-
 I wanted to create a joint similar to that on a monkey wrench using two symmetrical arms and a pin holding the two together allowing them to open and close together.
 
-<img width="1000" height="500" alt="Screenshot 2026-10-06 120103" src="https://github.com/user-attachments/assets/5fca4a84-07fb-4c9f-868a-21b9c014ced7" />
+<img width="1100" height="500" alt="Screenshot 2026-10-06 120103" src="https://github.com/user-attachments/assets/cf5b125d-ea80-46b0-bd53-9f85a2a55fb9" />
+The arm's dimensions were changed to make them fit more symmetrically and have a more balanced weight. it was originally two inches on both sides and one inch in the middle but I changed it to 2 inches on all three parts of the model.
+
+<img width="650" height="500" alt="Screenshot 2026-10-06 120559" src="https://github.com/user-attachments/assets/82c73396-14f3-45be-92eb-6e47d6f456d8" />
 
 This is the arm that I will use. on the assembly I will print two of these and since they are designed symmetrically, I can flip the second one and then use the joint to create the model.
 
