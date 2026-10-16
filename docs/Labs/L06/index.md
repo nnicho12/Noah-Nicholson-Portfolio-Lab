@@ -1,6 +1,7 @@
 # L06 – Design Fits for an Artifact
 
 ## Parametrically Design
+<img width="660" height="252" alt="Screenshot 2026-10-16 131249" src="https://github.com/user-attachments/assets/458972be-0be5-4bde-b0cb-2e128a1202db" />
 
 Parameters Used - I wanted to create a mount that can move along the side of the artifact using the holes in the corners of the artifact. Why parameters Chosen - I chose the specific parameters around the side of the hole and the width of the artifact. This way, the length of the model can fit another identical artifact at the opposing end of it. Values chosen - These values were the average of three measurements taken from each part of the artifact. This way I can have more data on the size and fit of the model and stand a better chance to make a properly fitting model. Change in values - Yes, I changed the values for the clip that will hold the main arm into place from the bottom. I initially had the semi-circle too short and I needed to extend it further out in order to have the snapping effect work properly. Taken Measurements - . 
 ## Documentation
