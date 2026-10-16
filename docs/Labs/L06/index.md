@@ -17,6 +17,3 @@ This build orientation was made to all for the build to be printed without any s
 
 I made the size of the clips too small the first time so I had to reprint the model in order to better fit the pins on the main piece.
 
-
-## Communicate
-
