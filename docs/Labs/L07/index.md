@@ -39,6 +39,8 @@ This is the pin that will hold the arms together and create the joint movement. 
 <img width="650" height="500" alt="Screenshot 2026-10-06 123239" src="https://github.com/user-attachments/assets/2b4ecc85-821d-4038-b4d4-23f40cbce6c4" />
 
 I made this cap for the top of the pin to have a gap in the middle of it to fit into the cut created in the pin to have a snap fit effect. This is so once the arms are on the pin, the cap will lock on top and keep the arms firmly on the pin. Later I will find out that I did not make the tolerances correct and the arms would not fit all the way on because of that.
+<img width="650" height="500" alt="Screenshot 2026-10-06 124014" src="https://github.com/user-attachments/assets/0b4c10cd-634d-4260-ba73-13b8c763aee1" />
+
 ## 3D Print
 
 
