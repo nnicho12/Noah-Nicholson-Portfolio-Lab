@@ -20,7 +20,8 @@ https://www.youtube.com/watch?v=X800mynKw4M&t=31s
 ## Design
 <img width="1100" height="500" alt="Screenshot 2026-10-06 120103" src="https://github.com/user-attachments/assets/cf5b125d-ea80-46b0-bd53-9f85a2a55fb9" />
 
-The arm's dimensions were changed to make them fit more symmetrically and have a more balanced weight
+The arm's dimensions were changed to make them fit more symmetrically and have a more balanced weight. it was originally two inches on both sides and one inch in the middle but I changed it to 2 inches on all three parts of the model.
+
 <img width="598" height="282" alt="Screenshot 2026-10-16 140241" src="https://github.com/user-attachments/assets/75eb271e-626a-4fc5-a002-2e3ad65d2641" />
 
 I wanted to create a joint similar to that on a monkey wrench using two symmetrical arms and a pin holding the two together allowing them to open and close together.
