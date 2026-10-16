@@ -1,13 +1,13 @@
 # L07 – Linkage Mechanisms
 
-## Objective
+## Research
 
 
-## Analyze
+## Design
 
 
-## Decide
+## 3D Print
 
 
-## Communicate
+## lessons Learned
 
