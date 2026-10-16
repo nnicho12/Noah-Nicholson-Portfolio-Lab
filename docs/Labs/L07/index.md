@@ -18,9 +18,28 @@ https://www.youtube.com/watch?v=X800mynKw4M&t=31s
 
 
 ## Design
+<img width="1100" height="500" alt="Screenshot 2026-10-06 120103" src="https://github.com/user-attachments/assets/cf5b125d-ea80-46b0-bd53-9f85a2a55fb9" />
+
+The arm's dimensions were changed to make them fit more symmetrically and have a more balanced weight
 <img width="598" height="282" alt="Screenshot 2026-10-16 140241" src="https://github.com/user-attachments/assets/75eb271e-626a-4fc5-a002-2e3ad65d2641" />
 
+I wanted to create a joint similar to that on a monkey wrench using two symmetrical arms and a pin holding the two together allowing them to open and close together.
 
+<img width="1000" height="500" alt="Screenshot 2026-10-06 120103" src="https://github.com/user-attachments/assets/5fca4a84-07fb-4c9f-868a-21b9c014ced7" />
+
+This is the arm that I will use. on the assembly I will print two of these and since they are designed symmetrically, I can flip the second one and then use the joint to create the model.
+
+<img width="600" height="500" alt="Screenshot 2026-10-06 121639" src="https://github.com/user-attachments/assets/d37d6982-50dd-4cb7-8abd-e5c80c8be016" />
+
+This was the first pin with two open ends, I changed it in the next picture to one open end because I would only have to print one cap instead of two.
+
+<img width="600" height="500" alt="Screenshot 2026-10-06 121924" src="https://github.com/user-attachments/assets/52648ce3-b215-4e33-9181-06e2efbbbbbe" />
+
+This is the pin that will hold the arms together and create the joint movement. I set the bottom of the pin to have a head that will stop the arms from coming off from below.
+
+<img width="650" height="500" alt="Screenshot 2026-10-06 123239" src="https://github.com/user-attachments/assets/2b4ecc85-821d-4038-b4d4-23f40cbce6c4" />
+
+I made this cap for the top of the pin to have a gap in the middle of it to fit into the cut created in the pin to have a snap fit effect. This is so once the arms are on the pin, the cap will lock on top and keep the arms firmly on the pin. Later I will find out that I did not make the tolerances correct and the arms would not fit all the way on because of that.
 ## 3D Print
 
 
