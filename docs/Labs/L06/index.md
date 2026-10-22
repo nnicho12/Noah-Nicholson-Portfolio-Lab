@@ -12,7 +12,7 @@ I used machine 08 and the print was 1.06 inches long and .265 inches tall.
 <img width="750" height="500" alt="Screenshot 2026-09-29 125901" src="https://github.com/user-attachments/assets/5f5bc4a1-6908-4e52-9a1f-61329e713e2e" />
 
 This build orientation was made to all for the build to be printed without any supports. I used a 30 percent infill at with a concentric pattern and 2 walls. made these changes to allow for the infill to be produced with enough space to be effective while still giving enough support when the model is being snapped on. 0.55 grams of PETG was used in this print. I changed the the size of the snap fit clips to be more whole of a circle to create a stronger snapping effect.
-[Cad Model](
+Cad Files: [Pin](L06Pin.SLDPRT) , [Pin Clip](L06pinclip.SLDPRT)
 
 ## Lessons Learned
 
