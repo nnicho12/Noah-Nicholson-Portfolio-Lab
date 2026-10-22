@@ -39,10 +39,22 @@ This is the pin that will hold the arms together and create the joint movement. 
 <img width="650" height="500" alt="Screenshot 2026-10-06 123239" src="https://github.com/user-attachments/assets/2b4ecc85-821d-4038-b4d4-23f40cbce6c4" />
 
 I made this cap for the top of the pin to have a gap in the middle of it to fit into the cut created in the pin to have a snap fit effect. This is so once the arms are on the pin, the cap will lock on top and keep the arms firmly on the pin. Later I will find out that I did not make the tolerances correct and the arms would not fit all the way on because of that.
-<img width="650" height="500" alt="Screenshot 2026-10-06 124014" src="https://github.com/user-attachments/assets/0b4c10cd-634d-4260-ba73-13b8c763aee1" />
+
 
 ## 3D Print
 
+<img width="650" height="500" alt="Screenshot 2026-10-06 124014" src="https://github.com/user-attachments/assets/0b4c10cd-634d-4260-ba73-13b8c763aee1" />
+
+This is the final assembly made to show what this model should look like once the print is made successfully.
+
+<img width="500" height="500" alt="Screenshot 2026-10-22 143622" src="https://github.com/user-attachments/assets/fdd7a3c7-b37f-4f99-9a87-a40b33ce9f77" />
+
+This is how the print came out. The joint mechanism works as intended, however the tolerances were not accounted for and so the pin would not fit all the way through the two arms. The snap fit pin end works however it cannot perform its function because it would need the pin to fit all the way through the arms in oder to serve its purpose.
+
+<img width="500" height="500" alt="Screenshot 2026-10-22 143607" src="https://github.com/user-attachments/assets/9aeb8a1f-0b8e-459e-b0f3-b4c2a365a618" />
+
+This is the distance that the pin can get to before it gets stuck due to suboptimal tolerances. both arms fit onto the pin however they cannot fully sit on the pin which would allow for the pin end to snap fit on to fully complete the model as it was intended.
 
 ## lessons Learned
 
+I learned to take into account more tolerances, my thought process was that the tolerance of the printer itself might have been enough to allow for the model to function fully however this cutting of corners resulted in a model that even though does its intended function, doesn't have all features incorperated into it.
