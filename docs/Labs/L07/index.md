@@ -43,6 +43,7 @@ I made this cap for the top of the pin to have a gap in the middle of it to fit 
 
 ## 3D Print
 Cad Model: [Arm](L07arm.SLDPRT) , [Pin](L07pin.SLDPRT) , [Pin End](L07pinholder.SLDPRT)
+
 <img width="650" height="500" alt="Screenshot 2026-10-06 124014" src="https://github.com/user-attachments/assets/0b4c10cd-634d-4260-ba73-13b8c763aee1" />
 
 This is the final assembly made to show what this model should look like once the print is made successfully.
