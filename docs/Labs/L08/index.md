@@ -1,5 +1,9 @@
 # L08 – Design and Print Something Useful
 
+## Reading and Writing
+
+In this article, it states that asking questions not only allows you to find new problems but more importantly, new ways to approach existing problems or previous problems that you might not be able to understand or solve. If we think of one large problem that asks one over-arching question as a series of smaller problems that are all solved by other questions. It would make sense that in order to solve the overall issue, we must first ask questions about all sides of the issue to uncover any and all underlying problems. And even if we find that there are not any problems with one particular part. We grow a new understanding and view of the overall issue that itself, can help to arrive at a solution.
+
 ## Problem Statement
 
 This design that I made is to create a place to store toothbrushes on top of my bathroom sink. This is from the fact that I had previously had a cover on the brush head and then stored it directly on the sink surface which is a more unsanitary solution than creating a cup shaped storage unit that will sore the brushes without having the brush head come into contact with anything. I noticed after I had a friend stay and they had to place the brush on the sink with no cover and I thought that there could be a much more sanitary solution to this. My approach was to create a cup that would fit onto the sink edge while having enough structural stability to hold the brush upright without falling over but not high enough to come into contact with the brush head.
