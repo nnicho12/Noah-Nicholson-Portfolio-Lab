@@ -24,11 +24,7 @@ Once extruded, I added similar fillets to the top rim as well to make the edges 
 
 I used a 20% infill with a rectangular pattern and a wall thickness of 1. I chose these parameters because the height of the print doesn't need to support anything more than a tooth brush so the strength of the print doesn't need to be very height due to the application. I used no supports because there were no points where that would be needed due to the 90 degree nature of the print.
 
-<video controls width="500" playsinline preload="metadata">
-  <source src="./Labs/L08/IMG_4329.mp4" type="video/mp4">
-  Your browser does not support embedded videos.
-</video>
-
+[Print Video](./IMG_4329.mp4)
 <img width="1020" height="972" alt="Screenshot 2026-11-03 121234" src="https://github.com/user-attachments/assets/af8bf92c-9bca-4a81-9dea-111150aad8a2" />
 
 Once the print was completed it looked exactly as intended with the height being correct and there were no blemishes in the final product.
