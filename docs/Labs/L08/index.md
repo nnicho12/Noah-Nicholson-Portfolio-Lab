@@ -34,5 +34,7 @@ Once the print was completed it looked exactly as intended with the height being
 
 This is the final product in usage. As shown, the model supports the tooth brushes well and with enough distance that the parts of the tooth brush that interacted with the users mouth isn't in contact with anything.
 
-## Communicate
+## Lessons Learned
+
+I learned after I created the cup that I could have improved my design by adding in small webbing to the top of the container to separate the brushes from each other. My product successfully removes the brushes from the sink area but in doing so a new potential area of contamination arose from the brushes touching each other. If I were to print this again I would add in some form of this webbing.
 
