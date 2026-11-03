@@ -10,6 +10,8 @@ This design that I made is to create a place to store toothbrushes on top of my 
 
 ## Design
 
+[CAD Model](L08 Holder.SLDPRT)
+
 <img width="500" height="500" alt="Screenshot 2026-10-20 114658" src="https://github.com/user-attachments/assets/5528c3bd-1723-4475-b2c9-804c4090c489" />
 
 I created the base to these dimensions to have a thickness thick enough to support filament and the brush's weight.
