@@ -1,5 +1,9 @@
 # Final Project – Phone Heat Shield
 
+## Part 1
+
+
+
 ## Research
 
 ### Spiral Design Process
@@ -13,6 +17,7 @@ The spiral design is a four step repeating process that consists of 1. Planning/
 
 ### Laser Cut Kerf
 
+## Problem Definition 
 
 ## Problem to Solve
 
@@ -22,8 +27,11 @@ While driving in my car, I have my phone placed on a phone holder that uses a cl
 
 I want to create a heat shield that will be placed in between the phone and the vent. The material used will need to be a good insulator to minimize the heat that escapes to the other side of the shield and heats up my phone. The heat shield itself will not be a challenge to create, the challenge will lay in the design of the fit for the heat shield. There is little space to work with and the phone clamp presents a small surface area to work with in terms of fitting.
 
-## Part 1
+## Concept Development
 
+## Testing Critical Features
+
+## Video Presentation
 
 ## Part 2
 
