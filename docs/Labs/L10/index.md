@@ -16,7 +16,9 @@ I designed this fit to be used as a method of connecting joints. My thought proc
 ## Cad Design
 
 Outer Piece: [Outer Piece](L10outer.SLDPRT)
+
 Inner Piece: [Inner Piece](L10inner.SLDPRT)
+
 Assembly: [Assembly](L10Assm.SLDASM)
 
 <img width="750" height="500" alt="Screenshot 2026-11-09 174214" src="https://github.com/user-attachments/assets/8f618dab-080f-4725-8a5e-d8572cf725fb" />
