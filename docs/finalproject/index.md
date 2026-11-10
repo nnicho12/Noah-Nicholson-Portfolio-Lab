@@ -1,6 +1,10 @@
 # Final Project – Phone Heat Shield
 
-## Objectives
+## Research
+
+### Spiral Design Process
+
+The spiral design is a four step repeating process that consists of 1. Planning/Analysis, 2. Risk Evaluation, 3. Development and Testing, 4. Review and Planning Next Iteration. This process will be used in my project to help me focus in on one issue per iteration. For example, I might start with just designing for the area the shield needs to cover off in order to maximize the heat deflection. From there, I can then start with designing the mount, will a slide fit be better than a snap fit? How will that effect my tolerances? These are problems that will be more effectively solved through this process if I apply it correctly.
 
 
 ## Problem to Solve
@@ -15,3 +19,9 @@ I want to create a heat shield that will be placed in between the phone and the 
 
 
 ## Part 2
+
+
+
+## Resources
+[GeeksForGeeks](https://www.geeksforgeeks.org/software-engineering/software-engineering-spiral-model/)
+[BirdView](https://birdviewpsa.com/blog/upward-spiral-spiral-project-management-method/)
