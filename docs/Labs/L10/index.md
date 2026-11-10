@@ -33,7 +33,7 @@ This is the fully extruded model of the outer piece, we can see the hollowed out
 
 This is what the dimensions of the inner piece. It is made to fit within the outer pieces on ends.
 
-<img width="1750" height="500" alt="Screenshot 2026-11-09 174352" src="https://github.com/user-attachments/assets/1f58a241-de82-4a41-a6cd-516a66be6a0c" />
+<img width="750" height="500" alt="Screenshot 2026-11-09 174352" src="https://github.com/user-attachments/assets/1f58a241-de82-4a41-a6cd-516a66be6a0c" />
 
 This is the extruded inner piece, its just a rectangle that is used to connect the two outer pieces in order to connect them, this can be done multiple times for instance if the outer pieces have the hollowed sections on each side to connect multiple in sequence.
 
