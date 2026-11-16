@@ -12,6 +12,7 @@ The spiral design is a four step repeating process that consists of 1. Planning/
 
 ### FDM Anisotropic
 
+FDM parts are naturally Anisotropic because of how the printing is completed. The printing is done, layer by layer vertically meaning that the forces acting on one axis may cause a different reaction than that of forces acting on a different axis. Because my prototype is going to be loaded vertically, it would be beneficial for me to print my part with the beads moving horizontally, this is because the binding force between the bead layers is not going to be placed under near as much force this way. The mount for the holder can rotate 180 degrees either way. To combat this change in load on the part due to gravity. maybe I could print with diagonal bead layers. This would reduce the overall stress that will occur on the part.
 
 ### SLA Shrkinage
 
@@ -19,6 +20,17 @@ The spiral design is a four step repeating process that consists of 1. Planning/
 
 ## Problem Definition 
 
+### Phone holder
+
+Phone will overheat when driving in cold weather due to the heater being on. Since the phone holder is clipped to the vent that produces the heat, the phone will be overheated causing my navigation and music to fail.
+
+### Toiletries Holder
+
+I currently have some of my toiletries scattered on my vanity and it unorganized. I could try and create something that could hold or maintain organization within this area.
+
+### Air Tag Holder
+
+I have an air tag in my backpack and car, however in the even that my car would be stolen, the air tag is not hidden well enough to prevent it from being seen and removed. I could create something that would allow me to place the air tag in a more secure and hidden area.
 ## Problem to Solve
 
 While driving in my car, I have my phone placed on a phone holder that uses a clamp to hold the phone, this is then slide fit onto the driver facing vents on the center console of my car. This works great most times of the year; However, as it gets colder I am starting to use hot air as oppose to cold air in my car for my comfort. This creates a problem for a heat sensitive phone if it is placed on the heating vent. I need to find a way to reduce the effect of the heat from the vent onto my phone.
