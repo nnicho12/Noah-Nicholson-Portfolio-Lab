@@ -16,7 +16,11 @@ FDM parts are naturally Anisotropic because of how the printing is completed. Th
 
 ### SLA Shrkinage
 
+SLA shrinkage happens when the resin is undergoing curing. This is because when curing, the resin undergoes a chemical reaction that reduces the overall volume of the print, this is how it hardens. The tolerances will increase as the size increases but is often at around +/-0.1mm-0.2mm for smaller prints. The print will shrink 2-7% overall during curing. This could be the best method for my print due to resin not being nearly as anisotropic as FDM, this would solve the issue of having the print needing to be able to rotate 180% and maintain structural integrity.
+
 ### Laser Cut Kerf
+
+Kerf is the width of the material removed from the print due to the heat melting/vaporizing away. Not only is the material removed and therefore altering the fit of the parts. It can also make the surface finishes uneven. Due to fact that the laser cutting kerf opens the tolerances and makes most features larger than intended for. It can make it difficult to calculate the right dimensions for a joint fit. Calculating the kerf offset of the cutter can make help account for the kerf and make snap and slide fits work.
 
 ## Problem Definition 
 
@@ -52,3 +56,4 @@ I want to create a heat shield that will be placed in between the phone and the 
 ## Resources
 [GeeksForGeeks](https://www.geeksforgeeks.org/software-engineering/software-engineering-spiral-model/)
 [BirdView](https://birdviewpsa.com/blog/upward-spiral-spiral-project-management-method/)
+[FormLabs](https://formlabs.com/white-papers/form-4-design-guide/?utm_source=chatgpt.com)
