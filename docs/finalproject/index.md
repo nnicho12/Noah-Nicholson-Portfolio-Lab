@@ -48,7 +48,7 @@ I want to create a heat shield that will be placed in between the phone and the 
 ## Testing Critical Features
 
 ## Video Presentation
-[Video Presentation](
+[Video Presentation](FPvid1.mp4)
 ## Part 2
 
 
