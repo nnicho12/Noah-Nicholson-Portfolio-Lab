@@ -53,6 +53,10 @@ I chose to make my build orientation from the auto "1 click" feature because aft
 
 The build was 705 layers and took 1 hour and 40 minutes to complete. The thickness chosen was .05 mm. I had it set to .1 mm but once a printer was selected, the thickness changed to .05 mm automatically so I chose to keep this thickness to avoid any unintended errors during the printing.
 
+<img width="500" height="500" alt="Screenshot 2026-11-18 104603" src="https://github.com/user-attachments/assets/b0a4ad64-9d2c-469f-8e97-225fe6330205" />
+<img width="1022" height="728" alt="Screenshot 2026-11-18 104454" src="https://github.com/user-attachments/assets/ae06e732-4f38-4863-a1e8-4e014ef8c01f" />
+
+
 Volume: 20.57 mL (two projects) , allowable clearance for shrinkage was made too small because I set the RC2 tolerance to a value that was smaller than the minimum dimensional accuracy of the printer.
 
 ## Post-Processing
