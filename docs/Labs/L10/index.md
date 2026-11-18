@@ -41,8 +41,22 @@ This is the extruded inner piece, its just a rectangle that is used to connect t
 
 This is the completed assembly of the sliding fit demo. The gap in the middle is for viewing purposes only and can be completely covered by the slide fit to improve the structural properties of the assembly. 
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+## Preprocessing for 3D Printing
+
+Machine Name: HallowedDodo
+
+<img width="700" height="500" alt="Screenshot 2026-11-16 131131" src="https://github.com/user-attachments/assets/dc997757-21b2-4da0-a70c-e46ee7bda475" />
+
+I chose to make my build orientation from the auto "1 click" feature because after asking staff present in the lab, I was told that this method was the most effective for orientation.
+
+<img width="700" height="500" alt="Screenshot 2026-11-16 131847" src="https://github.com/user-attachments/assets/7f84561a-fb29-40b8-9838-33539756c286" />
+
+The build was 705 layers and took 1 hour and 40 minutes to complete. The thickness chosen was .05 mm. I had it set to .1 mm but once a printer was selected, the thickness changed to .05 mm automatically so I chose to keep this thickness to avoid any unintended errors during the printing.
+
+Volume: 20.57 mL (two projects) , allowable clearance for shrinkage was made too small because I set the RC2 tolerance to a value that was smaller than the minimum dimensional accuracy of the printer.
+
+## Post-Processing
+
 
 ## Communicate
 
