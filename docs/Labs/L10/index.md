@@ -61,6 +61,19 @@ Volume: 20.57 mL (two projects) , allowable clearance for shrinkage was made too
 
 ## Post-Processing
 
+<img width="1008" height="772" alt="Screenshot 2026-11-22 134719" src="https://github.com/user-attachments/assets/8a558ecf-0609-4cfd-8b59-217f8d48add2" />
 
-## Communicate
+This is the printed design after the printing and washing. I chose to cure the prints with the supports still attached because I was told it would help to maintain structure while curing. However after curing, the supports were hard to sand once removed. This among other reasons lead to the slide fit not working.
+
+<img width="1008" height="686" alt="Screenshot 2026-11-22 134733" src="https://github.com/user-attachments/assets/2e9ca6d1-276c-45c2-806a-e4b2629c4fff" />
+
+This is what was the result from the fit not being made properly. You can see on the sides where supports were and how those exposed and lifted materials could assist in the fit not working properly.
+
+## Fit-Test
+
+The fit was unsuccessful. If you look at the drawing you will notice how the tolerances were less than .1 mm. This means that the tolerances set were too small for the resin printers to work with. This is the primary reason that the fit was unsuccessful.
+
+## Lessons Learned
+
+The main lesson I learned was about the tolerances. I want to try and think about this like I would about governing stresses when designing parts. Now I will know to calculate the tolerances needed for the fit I am designing for and then compare those results to the printer's tolerances and then I will create the fit based on which ever value is larger. 
 
