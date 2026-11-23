@@ -15,7 +15,7 @@ This is the top surface that will be on the top piece of the button fit. This is
 
 This is the portion of the top piece that will snap into place on the bottom piece. The sketch portion of this image will be revolved around the base creating a lip that if fitted correctly, will slide into the bottom piece and sit in a gap on the inside if the bottom piece.
 
-<img width="100" height="500" alt="Screenshot 2026-11-15 173800" src="https://github.com/user-attachments/assets/18318347-5108-402b-8998-da08b2f0e84e" />
+<img width="1000" height="500" alt="Screenshot 2026-11-15 173800" src="https://github.com/user-attachments/assets/18318347-5108-402b-8998-da08b2f0e84e" />
 
 This is the finished top piece that will be used to slide into the bottom piece, the cylinder in the middle is hollow because there is an extrusion on the base of the bottom piece that will help hold this top piece in position once snap fit in.
 
