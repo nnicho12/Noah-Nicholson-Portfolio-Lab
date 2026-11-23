@@ -45,6 +45,10 @@ I want to create a heat shield that will be placed in between the phone and the 
 
 ## Concept Development
 
+<img width="500" height="750" alt="Screenshot 2026-11-23 172039" src="https://github.com/user-attachments/assets/f0cf802b-695f-49ef-b925-f11bf92eaf1b" />
+
+<img width="1000" height="500" alt="Screenshot 2026-11-23 173112" src="https://github.com/user-attachments/assets/b06a7fc4-9d89-42ed-aae3-8425ca265968" />
+
 ## Testing Critical Features
 
 ## Video Presentation
