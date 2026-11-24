@@ -62,11 +62,9 @@ This was a test for a sliding fit with only SLA. I ran into an issue with this b
 
 ## Worksheet
 
-## Worksheet
-
 [View or download the worksheet](FPWorksheet.pdf)
 
-<iframe src="FPWorksheet.pdf" width="100%" height="700px"></iframe>
+One topic that came up a lot on these were the idea of temperature effecting the properties of the materials. To address this, I made modifications to improve the stability under heat. First, I made the infill in the PLA center rotator Gyroid. This infill created the most structural stability while having maximum free space to all for heat to dissipate. Additionally I added hollow flanges to reduce the conduction of heat on the edge of the model.
 
 ## Resources
 [GeeksForGeeks](https://www.geeksforgeeks.org/software-engineering/software-engineering-spiral-model/)
