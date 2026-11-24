@@ -62,7 +62,11 @@ This was a test for a sliding fit with only SLA. I ran into an issue with this b
 
 ## Worksheet
 
+## Worksheet
 
+[View or download the worksheet](FPWorksheet.pdf)
+
+<iframe src="FPWorksheet.pdf" width="100%" height="700px"></iframe>
 
 ## Resources
 [GeeksForGeeks](https://www.geeksforgeeks.org/software-engineering/software-engineering-spiral-model/)
