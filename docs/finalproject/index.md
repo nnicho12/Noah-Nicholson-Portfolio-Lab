@@ -66,6 +66,31 @@ This was a test for a sliding fit with only SLA. I ran into an issue with this b
 
 One topic that came up a lot on these were the idea of temperature effecting the properties of the materials. To address this, I made modifications to improve the stability under heat. First, I made the infill in the PLA center rotator Gyroid. This infill created the most structural stability while having maximum free space to all for heat to dissipate. Additionally I added hollow flanges to reduce the conduction of heat on the edge of the model.
 
+## Refinment
+
+<img width="500" height="700" alt="Screenshot 2026-11-24 120126" src="https://github.com/user-attachments/assets/fb933b15-8f04-4081-b316-0a5bec179b76" />
+
+I had this as the original design for my outer part of my heat shield. The prongs as you can see are very long and that was in order to support the vertical load of the model when it is rotated 180 degrees.
+
+<img width="700" height="500" alt="Screenshot 2026-11-24 120209" src="https://github.com/user-attachments/assets/cea4dac9-d090-498f-9fb1-a3837c41f80d" />
+
+The issue with this design was that during the washing process it was hard to remove all the wet resin from the interior of the opposing side that would fit those prongs into it. Because of this, during the curing process the wet resin stayed and solidified in the interior and made the fit unsuccessful.
+
+
+<img width="550" height="500" alt="Screenshot 2026-11-24 120216" src="https://github.com/user-attachments/assets/71898c72-ce58-4a0d-8234-cd5853c8bfa1" />
+
+My solution to this problem was to reprint but use a smaller prong size. Additionally after the washing process I made sure to shoot more IPA down the hollowed slots for the prongs to make sure that there was no excess resin still residing there before I cure the print. This would reduce the resistance to the vertical load when the model is rotated but it solved my main issue that I ran into. 
+
+## Documentation
+
+<img width="500" height="750" alt="Screenshot 2026-11-24 120056" src="https://github.com/user-attachments/assets/337e965c-dd73-4d57-bc2a-bdf6ea920655" />
+
+This is the final product fully assembled with the phone holder in place.
+
+<img width="300" height="600" alt="Screenshot 2026-11-24 120112" src="https://github.com/user-attachments/assets/61a78980-01d3-4146-a0e6-65dcfce0a927" />
+
+This is the final product with the phone in place inside the phone holder.
+
 ## Resources
 [GeeksForGeeks](https://www.geeksforgeeks.org/software-engineering/software-engineering-spiral-model/)
 [BirdView](https://birdviewpsa.com/blog/upward-spiral-spiral-project-management-method/)
