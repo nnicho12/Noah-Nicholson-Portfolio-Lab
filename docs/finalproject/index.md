@@ -51,9 +51,16 @@ I want to create a heat shield that will be placed in between the phone and the 
 
 ## Testing Critical Features
 
+<img width="750" height="400" alt="Screenshot 2026-11-22 134733" src="https://github.com/user-attachments/assets/7abd7f02-3519-4bb8-84af-b49fa7cce32b" />
+
+This was a test for a sliding fit with only SLA. I ran into an issue with this because of the shrinkage and tolerances of the fit in comparison to the tolerances of the printer. I found that I need to gauge my fits differently based on the printer's tolerances and not only the fit type's tolerance.
 ## Video Presentation
+
 [Video Presentation](FPvid1.mp4)
+
 ## Part 2
+
+## Worksheet
 
 
 
